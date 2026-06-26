@@ -1,1 +1,1 @@
-[![Discord Presence](https://lanyard.kyrie25.dev/api/295998232989925376?hideDiscrim=false&animated=true&animatedDecoration=true&hideStatus=false&hideClan=false&hideProfile=false&hideSpotify=false&hideActivity=true&showBanner=animated&theme=dark&idleMessage=not%20doing%20anything!!&bg=000000&hideDecoration=false&forceGradient=false&hideTimestamp=false)](https://discord.com/users/295998232989925376)
+
