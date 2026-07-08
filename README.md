@@ -1,1 +1,1 @@
-[![Discord Presence](https://api.thorn.rest/thorn/v2/card/295998232989925376?font=Plus+Jakarta+Sans)](https://discord.com/users/295998232989925376)
+[![Discord Presence](https://api.thorn.rest/thorn/v2/card/295998232989925376?font=Outfit&nitro=gold&boost=24M-boost&badges=early-supporter&nameplate=Ambient+Ripples+%28Golden%29&decoration=Gold+Laurel+Wreath)](https://discord.com/users/295998232989925376)
