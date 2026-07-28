@@ -24,7 +24,7 @@
 ### 
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,bun,nextjs,react,tailwind,postgres,prisma,docker,git,cloudflare,vscode" />
+  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,bun,nextjs,react,tailwind,postgres,drizzleorm,vscode" />
 </p>
 
 </div>
