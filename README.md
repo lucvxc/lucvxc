@@ -18,24 +18,10 @@
 
 ---
 
-### Tech I Use
+### 
 
 <p>
   <img src="https://skillicons.dev/icons?i=ts,js,nodejs,bun,nextjs,react,tailwind,postgres,prisma,docker,git,cloudflare,vscode" />
 </p>
-
-```ts
-const luc = {
-  language: "TypeScript",
-  backend: ["Node.js", "Bun", "Hono"],
-  frontend: ["Next.js", "React", "Tailwind CSS"],
-  database: ["PostgreSQL", "Prisma"],
-  currentlyBuilding: [
-    "June",
-    "Discord Frameworks",
-    "Modern Web Applications"
-  ]
-};
-```
 
 </div>
