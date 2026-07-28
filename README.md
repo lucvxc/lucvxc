@@ -3,8 +3,8 @@
   Portfolio
 </a>
 &nbsp;•&nbsp;
-<a href="https://lucs.club">
-  Portfolio
+<a href="https://june.rocks">
+  June bot
 </a>
 <a href="https://discord.com/users/295998232989925376">
 </a>
