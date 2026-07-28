@@ -1,13 +1,10 @@
 <div align="center">
-<a href="https://lucs.club">
-  Portfolio
-</a>
+
+<a href="https://lucs.club">Portfolio</a>
 &nbsp;•&nbsp;
-<a href="https://june.rocks">
-  June bot
-</a>
-<a href="https://discord.com/users/295998232989925376">
-</a>
+<a href="https://june.rocks">June</a>
+&nbsp;•&nbsp;
+<a href="https://discord.com/users/295998232989925376">Discord</a>
 
 <br><br>
 
@@ -19,12 +16,8 @@
   />
 </a>
 
----
+<br><br>
 
-### 
-
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,bun,nextjs,react,tailwind,postgres,drizzleorm,vscode" />
-</p>
+<img src="https://skillicons.dev/icons?i=ts,js,nodejs,bun,nextjs,react,tailwind,postgres,vscode" />
 
 </div>
