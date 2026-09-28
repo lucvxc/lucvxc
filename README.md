@@ -1,38 +1,44 @@
-<div align="center">
-luc
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=8b5cf6&height=120&section=header&text=luc&fontSize=42&fontColor=ffffff&fontAlignY=35" width="100%" />
+full-stack developer
 
-full stack dev
-<br>
+building web apps, tools, and occasionally things that shouldn't exist
 
-<a href="https://lucs.club">website</a>
+<br />
+
+<a href="https://lucs.club">lucs.club</a>
  · 
 <a href="https://june.rocks">june</a>
  · 
 <a href="https://discord.com/users/295998232989925376">discord</a>
 
-<br><br>
+<br /><br />
 
-<img src="https://skillicons.dev/icons?i=ts,js,nodejs,bun,nextjs,react,tailwind,postgres&theme=dark" /> </div> <br>
-what i do
+<img src="https://skillicons.dev/icons?i=ts,js,nodejs,bun,nextjs,react,tailwind,postgres&theme=dark" /> </div> <br />
+stats
+<div align="center">
 
-TypeScript / JavaScript
+<img src="https://github-readme-stats.vercel.app/api?username=lucvxc&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=888888&icon_color=8b5cf6&ring_color=8b5cf6&hide_rank=true" height="170" />
 
-React / Next.js
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucvxc&layout=compact&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=888888&icon_color=8b5cf6&langs_count=8" height="170" />
 
-Node.js / Bun
+</div> <br /> <div align="center">
 
-PostgreSQL
+<img src="https://streak-stats.demolab.com/?user=lucvxc&hide_border=true&background=00000000&ring=8b5cf6&fire=8b5cf6&currStreakLabel=8b5cf6&sideLabels=888888&dates=666666&currStreakNum=ffffff&sideNums=ffffff" width="70%" />
 
-Full-stack web development
+</div> <br />
+activity
+<div align="center">
 
-Developer tooling & side projects
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lucvxc&bg_color=00000000&color=888888&line=8b5cf6&point=ffffff&area=true&area_color=8b5cf6&hide_border=true&custom_title=contribution%20activity" width="100%" />
 
-currently
+</div> <br /> <div align="center">
 
-Building things, breaking things, and trying to keep the stack small.
+<img src="https://github-profile-trophy.vercel.app/?username=lucvxc&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%" />
 
-<br> <div align="center"> <a href="https://lucs.club"> <img src="https://img.shields.io/badge/website-lucs.club-8b5cf6?style=flat-square" /> </a> <a href="https://june.rocks"> <img src="https://img.shields.io/badge/project-june.rocks-8b5cf6?style=flat-square" /> </a>
+</div> <br /> <div align="center">
 
-<br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=lucvxc&show_icons=false&hide_border=true&bg_color=00000000&hide_title=true&include_all_commits=true&count_private=true" height="1" width="1" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=lucvxc&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=888888&icon_color=8b5cf6&hide_title=true" height="160" /> </div>
+<sub>typescript · react · next.js · bun · postgres</sub>
+
+</div> <br /> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=8b5cf6&height=80&section=footer" width="100%" /> </div>
