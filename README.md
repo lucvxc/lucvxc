@@ -1,8 +1,5 @@
 <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=8b5cf6&height=120&section=header&text=luc&fontSize=42&fontColor=ffffff&fontAlignY=35" width="100%" />
 full-stack developer
-
-building web apps, tools, and occasionally things that shouldn't exist
-
 <br />
 
 <a href="https://lucs.club">lucs.club</a>
