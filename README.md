@@ -1,4 +1,5 @@
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=8b5cf6&height=120&section=header&text=luc&fontSize=42&fontColor=ffffff&fontAlignY=35" width="100%" />
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=120&section=header&text=luc&fontSize=42&fontColor=000000&fontAlignY=35" width="100%" />
+
 full stack dev
 <br />
 
@@ -6,4 +7,4 @@ full stack dev
  · 
 <a href="https://discord.com/users/295998232989925376">discord</a>
 
-<br />
+<br /> </div>
