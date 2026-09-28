@@ -2,7 +2,6 @@
 luc
 
 full stack dev
-
 <br>
 
 <a href="https://lucs.club">website</a>
