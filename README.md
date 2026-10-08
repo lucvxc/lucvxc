@@ -7,4 +7,5 @@ full stack dev
  · 
 <a href="https://discord.com/users/295998232989925376">discord</a>
 
+![Last.fm recently played](https://lastfm-recently-played.jeffreyca.workers.dev/svg?user=luc0c&count=1&header=0&profile=off)
 <br /> </div>
