@@ -1,8 +1,8 @@
 
 <div align="center">
-  <h2>luc.</h2>
-  <p>full-stack developer. building things for the web and beyond.</p>
-  <a href="https://opsec.codes">website</a> · <a href="https://www.last.fm/user/lucvmf">last.fm</a>
+  <h2>luc</h2>
+<p>Fullstack developer aspiring to pursue a career in cybersecurity and IT.</p>
+  <a href="https://envyi.ng">portfolio</a>
   <h3>languages</h3>
   <img src="https://skillicons.dev/icons?i=ts,js,py,go,rust&theme=dark" height="42" alt="Languages" />
   <h3>stats</h3>
